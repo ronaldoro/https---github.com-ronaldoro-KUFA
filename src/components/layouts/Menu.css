@@ -1,0 +1,14 @@
+/* styles.css */
+.menu-container {
+    background: linear-gradient(to right, #FF83AE, #8697E5);
+    padding: 15px;
+    text-align: center;
+    color: white;
+  }
+  
+  .menu-item:not(:last-child) {
+    display: inline-block; /* 가로로 배치되도록 설정 */
+    font-size: 18px;
+    margin-right: 10vw; 
+    padding: 5px 10px; /* 메뉴 아이템 내용에 패딩 적용 */
+  }
