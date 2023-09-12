@@ -5,27 +5,22 @@ const SlideShow = ({ images }) => {
   const [currentIndex, setCurrentIndex] = useState(1);
 
   useEffect(() => {
-    const intervalId = setInterval(() => {
-      // 다음 슬라이드로 이동
+    const changeImage = () => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
-    }, 1000); // 1초마다 슬라이드 변경
+    };
+
+    // 1초마다 이미지 변경
+    const intervalId = setInterval(changeImage, 2000);
 
     return () => {
       // 컴포넌트 언마운트 시 인터벌 제거
       clearInterval(intervalId);
     };
-  }, [images]);
+  }, []);
 
   return (
-    <div className="slide-container">
-      {images.map((image, index) => (
-        <div
-          key={index}
-          className={`slide ${index === currentIndex ? 'active' : ''}`}
-        >
-          <img src={image} alt={`Slide ${index + 1}`} />
-        </div>
-      ))}
+    <div className="slide">
+      <img src={images[currentIndex]} alt={`Slide ${currentIndex + 1}`} />
     </div>
   );
 };

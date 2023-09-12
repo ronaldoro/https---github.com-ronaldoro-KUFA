@@ -7,7 +7,7 @@ import instagram4 from '../assets/instagram4.png';
 
 const InstagramItemComponent = ({ imageSrc }) => {
     return (
-        <img src={imageSrc} alt="Item" />
+        <img src={imageSrc} alt="Item" className='instagram-image'/>
     );
   };
 
