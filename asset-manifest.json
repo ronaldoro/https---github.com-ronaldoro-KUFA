@@ -1,27 +1,17 @@
 {
   "files": {
-    "main.css": "/https---github.com-ronaldoro-KUFA/static/css/main.3c9df8ed.css",
-    "main.js": "/https---github.com-ronaldoro-KUFA/static/js/main.e9d4455f.js",
+    "main.css": "/https---github.com-ronaldoro-KUFA/static/css/main.bde4dfb4.css",
+    "main.js": "/https---github.com-ronaldoro-KUFA/static/js/main.29e6ee06.js",
     "static/js/787.9d572da9.chunk.js": "/https---github.com-ronaldoro-KUFA/static/js/787.9d572da9.chunk.js",
-    "static/media/mainImage1.png": "/https---github.com-ronaldoro-KUFA/static/media/mainImage1.7b830fe43a78429f4049.png",
-    "static/media/mainImage4.jpeg": "/https---github.com-ronaldoro-KUFA/static/media/mainImage4.fbc2a30254875c13076c.jpeg",
-    "static/media/mainImage3.jpeg": "/https---github.com-ronaldoro-KUFA/static/media/mainImage3.d43a1d9605338f32ebc7.jpeg",
-    "static/media/instagram2.png": "/https---github.com-ronaldoro-KUFA/static/media/instagram2.10cf6dc71f3b1c1944b2.png",
-    "static/media/mainImage2.jpeg": "/https---github.com-ronaldoro-KUFA/static/media/mainImage2.0090f7fb32b12a107393.jpeg",
-    "static/media/instagram3.png": "/https---github.com-ronaldoro-KUFA/static/media/instagram3.4021a4d5c5f7d97a8d40.png",
-    "static/media/instagram4.png": "/https---github.com-ronaldoro-KUFA/static/media/instagram4.266b3f1151a71c7d0803.png",
-    "static/media/instagram1.png": "/https---github.com-ronaldoro-KUFA/static/media/instagram1.8d67baaae12d6cc429f4.png",
-    "static/media/cufaLogo.png": "/https---github.com-ronaldoro-KUFA/static/media/cufaLogo.a284907254395a65f4a3.png",
-    "static/media/gufaLogo.png": "/https---github.com-ronaldoro-KUFA/static/media/gufaLogo.e8984c20909cd2e0e966.png",
-    "static/media/sufaLogo.png": "/https---github.com-ronaldoro-KUFA/static/media/sufaLogo.585a9262ca69153928f6.png",
+    "static/media/mainImage1.png": "/https---github.com-ronaldoro-KUFA/static/media/mainImage1.9cb3487a549cd04c85c2.png",
     "static/media/kufaLogo.png": "/https---github.com-ronaldoro-KUFA/static/media/kufaLogo.e3d7cff18b18aa54bc95.png",
     "index.html": "/https---github.com-ronaldoro-KUFA/index.html",
-    "main.3c9df8ed.css.map": "/https---github.com-ronaldoro-KUFA/static/css/main.3c9df8ed.css.map",
-    "main.e9d4455f.js.map": "/https---github.com-ronaldoro-KUFA/static/js/main.e9d4455f.js.map",
+    "main.bde4dfb4.css.map": "/https---github.com-ronaldoro-KUFA/static/css/main.bde4dfb4.css.map",
+    "main.29e6ee06.js.map": "/https---github.com-ronaldoro-KUFA/static/js/main.29e6ee06.js.map",
     "787.9d572da9.chunk.js.map": "/https---github.com-ronaldoro-KUFA/static/js/787.9d572da9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c9df8ed.css",
-    "static/js/main.e9d4455f.js"
+    "static/css/main.bde4dfb4.css",
+    "static/js/main.29e6ee06.js"
   ]
 }
