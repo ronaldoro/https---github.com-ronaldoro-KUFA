@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https---github.com-ronaldoro-KUFA/static/css/main.b1f626bf.css",
+    "main.css": "/https---github.com-ronaldoro-KUFA/static/css/main.e3024acd.css",
     "main.js": "/https---github.com-ronaldoro-KUFA/static/js/main.466e36dc.js",
     "static/js/787.9d572da9.chunk.js": "/https---github.com-ronaldoro-KUFA/static/js/787.9d572da9.chunk.js",
     "static/media/mainImage1.png": "/https---github.com-ronaldoro-KUFA/static/media/mainImage1.9cb3487a549cd04c85c2.png",
-    "static/media/mainImage2.jpeg": "/https---github.com-ronaldoro-KUFA/static/media/mainImage2.0e41be1afae57d633961.jpeg",
+    "static/media/mainImage2.jpeg": "/https---github.com-ronaldoro-KUFA/static/media/mainImage2.5bdd97df06b3800998cf.jpeg",
     "static/media/kufaLogo.png": "/https---github.com-ronaldoro-KUFA/static/media/kufaLogo.e3d7cff18b18aa54bc95.png",
     "index.html": "/https---github.com-ronaldoro-KUFA/index.html",
-    "main.b1f626bf.css.map": "/https---github.com-ronaldoro-KUFA/static/css/main.b1f626bf.css.map",
+    "main.e3024acd.css.map": "/https---github.com-ronaldoro-KUFA/static/css/main.e3024acd.css.map",
     "main.466e36dc.js.map": "/https---github.com-ronaldoro-KUFA/static/js/main.466e36dc.js.map",
     "787.9d572da9.chunk.js.map": "/https---github.com-ronaldoro-KUFA/static/js/787.9d572da9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1f626bf.css",
+    "static/css/main.e3024acd.css",
     "static/js/main.466e36dc.js"
   ]
 }
