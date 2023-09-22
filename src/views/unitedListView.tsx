@@ -1,17 +1,23 @@
 import React from 'react';
+import { motion } from "framer-motion";
 import './UnitedListView.css'; 
 import gufaLogo from '../assets/gufaLogo.png';
 
 const UnitedItemComponent = ({ imageSrc, text }) => {
     return (
-      <div className="roundRect">
+      <motion.div
+      className="roundRect"
+      whileHover={{ scale: 1.2 }}
+      whileTap={{ scale: 0.9 }}
+      initial={{ scale: 0 }}
+      animate={{ scale: 1, rotateZ: 360 }}
+      >
         <img
         src={imageSrc}
         alt="Item"
         className="image-overlay"
-      />
-        
-      </div>
+        />
+      </motion.div>
     );
   };
 

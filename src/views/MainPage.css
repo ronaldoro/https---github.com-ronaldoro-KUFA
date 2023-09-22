@@ -1,0 +1,29 @@
+.centered-image-container {
+    
+    height: 100vh; /* 화면 높이에 맞게 컨테이너 높이 조절 */
+    background-image: url('../assets/mainImage1.png');
+    background-position: center;
+  }
+  
+  .centered-image {
+    max-width: 200%; /* 이미지 크기 제한 */
+    max-height: 200%; /* 이미지 크기 제한 */
+    width: 100%; /* 가로 크기 자동 조정 */
+    height: 100%;
+    object-fit: cover; 
+  }
+  
+  .about-kufa-text {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 100px; /* 원하는 여백 설정 */
+    font-size: 72px; /* 글자 크기 설정 */
+    color: white; /* 텍스트 색상 설정 */
+  }
+
+  @media screen and (max-width: 768px) {
+    .about-kufa-text  {
+      font-size: 48px; /* 화면 너비가 768px 이하인 경우 폰트 크기 조절 */
+    }
+  }

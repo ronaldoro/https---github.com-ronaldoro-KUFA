@@ -6,11 +6,11 @@
   
   .slide {
     min-width: 100%;
-    transition: transform 0.5s ease-in-out;
+    transition: transform 0.5s;
   }
   
   .slide img {
-    width: 100%;
+    width: 1500px;
     height: 500px;
   }
   
